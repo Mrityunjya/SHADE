@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "@react-three/fiber": "^9.5.0",
-    "three": "^0.183.1"
+    "postprocessing": "^6.39.1",
+    "three": "^0.183.2"
   }
 }

@@ -1,0 +1,7 @@
+DATA_RAW_PATH = "data/raw/starlink_tle.txt"
+PROCESSED_DIR = "data/processed"
+
+PROPAGATION_DURATION_HOURS = 1
+TIME_STEP_MINUTES = 10
+
+NEAR_MISS_THRESHOLD_KM = 5.0
